@@ -4,16 +4,25 @@ You can use the [editor on GitHub](https://github.com/bbauska/Cheat-Sheets/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Cheat Sheets
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+One to two page cheat sheets for mySQL, GitHub, Linux, Networking, MS Windows, etcetera
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Cheat Sheets
+## mySQL
+## Linux
+## WordPress
+## openWRT
+## HTML
+## CSS
+## Java
+## Visual Basic
+## And the list goes on.
+## ... And on ...
+### 
 
 - Bulleted
 - List
