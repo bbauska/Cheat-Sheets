@@ -6,41 +6,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Cheat Sheets
 
-One to two page cheat sheets for mySQL, GitHub, Linux, Networking, MS Windows, etcetera
+One to four page cheat sheets for mySQL, GitHub, Linux, Networking, MS Windows, etcetera
 
-```markdown
-Syntax highlighted code block
-
-# Cheat Sheets
-## mySQL
-## Linux
-## WordPress
-## openWRT
-## HTML
-## CSS
-## Java
-## Visual Basic
-## And the list goes on.
-## ... And on ...
-### 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+1.  mySQL
+2.  Linux
+3.  WordPress
+4.  openWRT
+5.  HTML 
+6.  CSS
+7.  JavaScript 
+8.  Visual Basic 
+9.  And the list goes on
+10.  ... And on ...
+11.  . . .   
+      
+    \[Link\](url) and !\[Image\](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bbauska/Cheat-Sheets/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
