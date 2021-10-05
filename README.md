@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 One to four page cheat sheets for mySQL, GitHub, Linux, Networking, MS Windows, etcetera
 
 1.  mySQL
-2.  Linux
+2.  [Linux](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20Linux%20-%20Command%20Line%20-%20Linux%20Command%20Line%20Cheat%20Sheet%20-%202pgs.pdf/)
 3.  WordPress
 4.  openWRT
 5.  HTML 
