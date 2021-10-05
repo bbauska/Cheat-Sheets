@@ -13,7 +13,7 @@ One to four page cheat sheets for mySQL, GitHub, Linux, Networking, MS Windows, 
 3.  [WordPress]
 4.  [openWRT]
 5.  [HTML](https://github.com/bbauska/Cheat-Sheets/blob/main/WSU-HTML-Cheat-Sheet.pdf/)
-6.  [CSS]
+6.  [CSS](https://github.com/bbauska/Cheat-Sheets/blob/main/CSS-Cheatsheet.pdf/)
 7.  [JavaScript]
 8.  [PHP]/(https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20PHP%20-%20WSU%20php%20Cheat%20Sheet%20-%2038pgs.pdf/)
 9.  [Bitcoin/Blockchain Nakamoto Whitepaper]/(github.com/bbauska/Cheat-Sheets/blob/main/2007%20-%20Nakamoto%20Bitcoin%20Whitepaper%20-%20coinbase%20-%209pgs.pdf/)
