@@ -12,10 +12,10 @@ One to four page cheat sheets for mySQL, GitHub, Linux, Networking, MS Windows, 
 2.  [Linux](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20Linux%20-%20Command%20Line%20-%20Linux%20Command%20Line%20Cheat%20Sheet%20-%202pgs.pdf/)
 3.  WordPress
 4.  openWRT
-5.  [HTML](https://github.com/bbauska/Cheat-Sheets/blob/main/WSU-HTML-Cheat-Sheet.pdf/)
+5.  [HTML](https://github.com/bbauska/Cheat-Sheets/blob/main/WSU-HTML-Cheat-Sheet.pdf)
 6.  CSS
 7.  JavaScript 
-8.  Visual Basic 
+8.  [PHP]/(https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20PHP%20-%20WSU%20php%20Cheat%20Sheet%20-%2038pgs.pdf)
 9.  And the list goes on
 10.  ... And on ...
 11.  . . .   
