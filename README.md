@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 One to four page cheat sheets for mySQL, GitHub, Linux, Networking, MS Windows, etcetera
 
-1.  [mySQL](https://github.com/bbauska/Cheat-Sheets/blob/main/mysql-cheat-sheet/)
+1.  [mySQL](https://github.com/bbauska/Cheat-Sheets/blob/main/mysql-cheat-sheet.md/)
 2.  [Linux](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20Linux%20-%20Command%20Line%20-%20Linux%20Command%20Line%20Cheat%20Sheet%20-%202pgs.pdf/)
 3.  [WordPress]
 4.  [openWRT]
@@ -19,7 +19,7 @@ One to four page cheat sheets for mySQL, GitHub, Linux, Networking, MS Windows, 
 9.  [Bitcoin/Blockchain Nakamoto Whitepaper]/(github.com/bbauska/Cheat-Sheets/blob/main/2007%20-%20Nakamoto%20Bitcoin%20Whitepaper%20-%20coinbase%20-%209pgs.pdf/)
 10.  [Linux IP Network Command](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20Linux%20-%20Networking%20-%20IP%20Command%20-%20Cheat%20Sheet%20-%203pgs.pdf)
       
-    \[Link\](url) and !\[Image\](src)
+[Link](url) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
