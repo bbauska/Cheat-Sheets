@@ -12,12 +12,13 @@ One to four page cheat sheets for mySQL, GitHub, Linux, Networking, MS Windows, 
 2.  [Linux](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20Linux%20-%20Command%20Line%20-%20Linux%20Command%20Line%20Cheat%20Sheet%20-%202pgs.pdf/)
 3.  [WordPress]
 4.  [openWRT]
-5.  [HTML](https://github.com/bbauska/Cheat-Sheets/blob/main/WSU-HTML-Cheat-Sheet.pdf/)
-6.  [CSS](https://github.com/bbauska/Cheat-Sheets/blob/main/CSS-Cheatsheet.pdf/)
-7.  [JavaScript]
-8.  [PHP](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20PHP%20-%20WSU%20php%20Cheat%20Sheet%20-%2038pgs.pdf/)
-9.  [Bitcoin/Blockchain Nakamoto Whitepaper](https://github.com/bbauska/Cheat-Sheets/blob/main/2007%20-%20Nakamoto%20Bitcoin%20Whitepaper%20-%20coinbase%20-%209pgs.pdf)
-10. [Linux IP Network Command](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20Linux%20-%20Networking%20-%20IP%20Command%20-%20Cheat%20Sheet%20-%203pgs.pdf)
+5.  [jQuery](https://github.com/bbauska/Cheat-Sheets/blob/main/wsu-jquery-cheat-sheet.pdf)
+6.  [HTML](https://github.com/bbauska/Cheat-Sheets/blob/main/WSU-HTML-Cheat-Sheet.pdf/)
+7.  [CSS](https://github.com/bbauska/Cheat-Sheets/blob/main/CSS-Cheatsheet.pdf/)
+8.  [JavaScript]
+9.  [PHP](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20PHP%20-%20WSU%20php%20Cheat%20Sheet%20-%2038pgs.pdf/)
+10. [Bitcoin/Blockchain Nakamoto Whitepaper](https://github.com/bbauska/Cheat-Sheets/blob/main/2007%20-%20Nakamoto%20Bitcoin%20Whitepaper%20-%20coinbase%20-%209pgs.pdf)
+11. [Linux IP Network Command](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20Linux%20-%20Networking%20-%20IP%20Command%20-%20Cheat%20Sheet%20-%203pgs.pdf)
       
 [Link](url) and ![Image](src)
 
