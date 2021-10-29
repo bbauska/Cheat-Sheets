@@ -20,8 +20,9 @@ One to four page cheat sheets for mySQL, GitHub, Linux, Networking, MS Windows, 
 10. [Bitcoin/Blockchain Nakamoto Whitepaper](https://github.com/bbauska/Cheat-Sheets/blob/main/2007%20-%20Nakamoto%20Bitcoin%20Whitepaper%20-%20coinbase%20-%209pgs.pdf)
 11. [Linux IP Network Command](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20Linux%20-%20Networking%20-%20IP%20Command%20-%20Cheat%20Sheet%20-%203pgs.pdf)
       
-![Dragnet 1967](src="https://github.com/bbauska/Cheat-Sheets/blob/main/img/dragnet-bg.png?raw=true")
 ![Dragnet 1968](https://user-images.githubusercontent.com/41387907/139372839-a95d0533-0ea8-4633-bd84-54716144d9eb.png)
+
+---
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
