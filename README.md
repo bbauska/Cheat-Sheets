@@ -16,7 +16,7 @@ One to four page cheat sheets for mySQL, GitHub, Linux, Networking, MS Windows, 
 7.  [HTML](https://github.com/bbauska/Cheat-Sheets/blob/main/WSU-HTML-Cheat-Sheet.pdf/)
 8.  [CSS](https://github.com/bbauska/Cheat-Sheets/blob/main/CSS-Cheatsheet.pdf/)
 9.  [JavaScript]
-10. [MarkDown](https://github.com/bbauska/Cheat-Sheets/blob/main/Markdown.pdf/)
+10. [MarkDown](https://github.com/bbauska/Cheat-Sheets/blob/main/resources/markdown.pdf/)
 11. [PHP](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20PHP%20-%20WSU%20php%20Cheat%20Sheet%20-%2038pgs.pdf/)
 12. [Bitcoin/Blockchain Nakamoto Whitepaper](https://github.com/bbauska/Cheat-Sheets/blob/main/2007%20-%20Nakamoto%20Bitcoin%20Whitepaper%20-%20coinbase%20-%209pgs.pdf)
 13. [Linux IP Network Command](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20Linux%20-%20Networking%20-%20IP%20Command%20-%20Cheat%20Sheet%20-%203pgs.pdf)
