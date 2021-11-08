@@ -11,7 +11,7 @@ One to four page cheat sheets for mySQL, GitHub, Linux, Networking, MS Windows, 
 1.  [mySQL](https://github.com/bbauska/Cheat-Sheets/blob/main/mysql-cheat-sheet.md/)
 2.  [Linux](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20Linux%20-%20Command%20Line%20-%20Linux%20Command%20Line%20Cheat%20Sheet%20-%202pgs.pdf/)
 3.  [WordPress](https://www.hostinger.com/tutorials/wordpress-cheat-sheet)
-5.  [openWRT](https://https://miracoin.wordpress.com/category/linux/openwrt/)
+5.  [openWRT](https://miracoin.wordpress.com/category/linux/openwrt/)
 6.  [jQuery](https://github.com/bbauska/Cheat-Sheets/blob/main/wsu-jquery-cheat-sheet.pdf)
 7.  [HTML](https://github.com/bbauska/Cheat-Sheets/blob/main/WSU-HTML-Cheat-Sheet.pdf/)
 8.  [CSS](https://github.com/bbauska/Cheat-Sheets/blob/main/CSS-Cheatsheet.pdf/)
