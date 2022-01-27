@@ -21,9 +21,9 @@ One to four page cheat sheets for mySQL, GitHub, Linux, Networking, MS Windows, 
 12. [Nakamoto Whitepaper Bitcoin/Blockchain](https://github.com/bbauska/Cheat-Sheets/blob/main/2007%20-%20Nakamoto%20Bitcoin%20Whitepaper%20-%20coinbase%20-%209pgs.pdf)
 13. [Linux IP Network Command](https://github.com/bbauska/Cheat-Sheets/blob/main/2020%20-%20Linux%20-%20Networking%20-%20IP%20Command%20-%20Cheat%20Sheet%20-%203pgs.pdf)
 
----------------------------------------------------------------------------------------------------------------------------->
 ![Repository Banner](headerimage.png)
-#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
+
+---------------------------------------------------------------------------------------------------------------------------->
 
 ## Table of Contents
 
