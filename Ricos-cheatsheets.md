@@ -1,8 +1,8 @@
-/* from Rico's Cheatsheets */
+<!-- from Rico's Cheatsheets -->
 <!------------------------------------------------------------------------------------------------>
 <h1><a href="https://devhints.io/">Rico's cheatsheets (by developers for developers)</a></h1>
 <!------------------------------------------------------------------------------------------------>
-/* SASS */
+<!-- SASS -->
 <h2><a href="https://devhints.io/sass">SASS Cheatsheet</a></h2>
 <!------------------------------------------------------------------------------------------------>
 <h2><a href="https://sass-lang.com/documentation">SASS</a></h2>
