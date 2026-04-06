@@ -1,53 +1,35 @@
-<h1><a href="https://devhints.io/">Rico's cheatsheets</a></h1>
+<h1><a href="https://devhints.io/">Rico's cheatsheets (by developers for developers)</a></h1>
 <!------------------------------------------------------------------------------------------------>
 <h2><a href="https://devhints.io/sass">SASS</a></h2>
 <!------------------------------------------------------------------------------------------------>
 <a href="https://sass-lang.com/documentation">SASS</a>
 <p>Sass is a stylesheet language that’s compiled to CSS. It allows you to use variables, nested rules, mixins, functions, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized and makes it easy to share design within and across projects.</p>
 <!------------------------------------------------------------------------------------------------>
-React
+<a href="https://devhints.io/react">JS React</a>
 <!------------------------------------------------------------------------------------------------>
-https://devhints.io/react
-
-
+<h2><a href="https://devhints.io/markdown">Markdown</a></h2>
 <!------------------------------------------------------------------------------------------------>
-Markdown
+<h2><a href="https://devhints.io/package-json">package.JSON</a></h2>
 <!------------------------------------------------------------------------------------------------>
-https://devhints.io/markdown
-
+<h2><a href="https://devhints.io/curl">cURL</a></h2>
 <!------------------------------------------------------------------------------------------------>
-package.json
+<h2><a href="https://devhints.io/bootstrap">CSS Bootstrap</a></h2>
 <!------------------------------------------------------------------------------------------------>
-https://devhints.io/package-json
-
-
+<h2><a href="https://devhints.io/css-grid">CSS Grid</a></h2>
 <!------------------------------------------------------------------------------------------------>
-cURL
+<h2><a href="https://devhints.io/css-tricks">CSS Tricks</a></h2>
 <!------------------------------------------------------------------------------------------------>
-https://devhints.io/curl
-
-CSS
+<h2><a href="https://devhints.io/css-flexbox">CSS Flexbox</a></h2>
 <!------------------------------------------------------------------------------------------------>
-bootstrap
+<h2><a href="https://devhints.io/css">CSS Cheatsheet</a></h2>
 <!------------------------------------------------------------------------------------------------>
-https://devhints.io/bootstrap
-
+<h2><a href="https://devhints.io/sass">SASS Cheatsheet</a></h2>
 <!------------------------------------------------------------------------------------------------>
-<a href="https://devhints.io/css-grid">CSS Grid</a>
+<h2><a href="https://devhints.io/stylus">Stylus Cheatsheet</a></h2>
 <!------------------------------------------------------------------------------------------------>
-https://devhints.io/css-tricks
+<p>Mixins, Functions, values, and Advanced features, Built-in functions.</p>
 <!------------------------------------------------------------------------------------------------>
-<a href="https://devhints.io/css-flexbox">CSS Flexbox</a>
-<!------------------------------------------------------------------------------------------------>
-https://devhints.io/css
-<!------------------------------------------------------------------------------------------------>
-https://devhints.io/sass
-<!------------------------------------------------------------------------------------------------>
-https://devhints.io/stylus
-<!------------------------------------------------------------------------------------------------>
-
-<!------------------------------------------------------------------------------------------------>
-<a href="https://devhints.io/nodejs-assert">Node JS Assert Cheatsheet</a>
+<h2><a href="https://devhints.io/nodejs-assert">Node JS Assert Cheatsheet</a></h2>
 <!------------------------------------------------------------------------------------------------>
 <a href="https://devhints.io/less">Less.js</a>
 <!------------------------------------------------------------------------------------------------>
